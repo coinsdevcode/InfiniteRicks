@@ -1,26 +1,26 @@
 ![alt text](https://downloadwallet.infinitericks.com/images/logo.png)  
 # InfiniteRicks
 
-Proof Type: PoS (Proof-of-Stake)
-Coin name: InfiniteRicks
-Coin abbreviation: RICK
-Address letter:	1
-Min stake age: 12 Hours
-Block time: 2 min
-APR:  307% a year
-RPC port:	31648
-P2P port:	31647
+Proof Type: PoS (Proof-of-Stake)<br>
+Coin name: InfiniteRicks<br>
+Coin abbreviation: RICK<br>
+Address letter:	1<br>
+Min stake age: 12 Hours<br>
+Block time: 2 min<br>
+APR:  307% a year<br>
+RPC port:	31648<br>
+P2P port:	31647<br>
 Supply: unlimited
 
 
-Official Website 
+Official Website <br>
 https://infinitericks.com
 
-Blockexplorer 
+Blockexplorer <br>
 https://explorer.infinitericks.com
 
 ## How to compile and use the Linux Deamon
-Tested and working on Ubtunu 14 - 16.04 and 18.04 Version.
+Tested and working on Ubtunu 14 - 16.04 and 18.04 Version.<br>
 Versions 20.04 and later do not currently compile due to changes in OpenSSL 1.1
 and the Boost C++ library in that version.
 
@@ -105,11 +105,13 @@ It should return an error, telling you to set up config file in a directory.
 
 ## Create a config file
 
-Now we’ll set up the config file. Note that this is case sensitive.
-```
+Now we’ll set up the config file. Note that this is case sensitive.<br>
 Linux
+```
 nano ~/.InfiniteRicks/InfiniteRicks.conf
+```
 Winodws
+```
 C:\Users\YourUserName\AppData\Roaming\InfiniteRicks
 ```
 Add the following, save and exit:
