@@ -79,6 +79,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
 {
     resize(850, 550);
     setWindowTitle(tr("InfiniteRicks") + " - " + tr("Wallet"));
+    qApp->setStyleSheet("QMainWindow { background-image: url(:/images/bkg)}");
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
