@@ -4,7 +4,6 @@
 Proof Type: PoS (Proof-of-Stake)<br>
 Coin name: InfiniteRicks<br>
 Coin abbreviation: RICK<br>
-Address letter:	1<br>
 Min stake age: 12 Hours<br>
 Block time: 2 min<br>
 APR:  307% a year<br>
